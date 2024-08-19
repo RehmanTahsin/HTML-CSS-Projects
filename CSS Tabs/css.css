@@ -1,0 +1,115 @@
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+html,body{
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+.full{
+    background-color:white;
+    height: auto;
+    width: 770px;
+    border-radius: 15px;
+}
+.full header{
+    padding: 30px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.full nav{
+    padding-bottom: 20px;
+    position: relative;
+}
+label{
+    position: relative;
+    padding: 0 30px ;
+   font-size:18px; 
+   color:aquamarine;
+   z-index: 1;
+   font-weight: 40px;
+   font-weight: bold;
+}
+#home:checked ~ nav label.a{
+    color: white;
+}
+#code:checked ~ nav label.b{
+    color: white;
+}
+#text:checked ~ nav label.c{
+    color: white;
+}#ability:checked ~ nav label.d{
+    color: white;
+}
+#help:checked ~ nav label.e{
+    color: white;
+}
+.full nav i{
+    padding:7px ;
+    font-size: 20px;
+}
+ .tab{
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    background-color:aquamarine;
+    min-height: 100%;
+    width: 17%;
+    margin: 10px;
+    z-index: 0;
+    border-radius: 10px;
+    transition: all .2s ease-in;
+}
+#code:checked ~ nav .tab{
+    left: 20.5%;
+}
+#text:checked ~ nav .tab{
+    left: 39%;
+}
+#ability:checked ~ nav .tab{
+    left: 58%;
+}
+#help:checked ~ nav .tab{
+    left: 76.5%;
+    width: 19%;
+}
+.full input[type="radio"]{
+    display: none;
+}
+section h2{
+    text-align: center;
+}
+section p{
+    padding: 25px;
+    text-align: center;
+}
+section .content{
+    display: none;
+}
+#home:checked ~ section .f{
+    display: block;
+}
+#code:checked ~ section .s{
+    display: block;
+}
+#text:checked ~ section .t{
+    display: block;
+}
+#ability:checked ~ section .fo{
+    display: block;
+}
+#help:checked ~ section .fi{
+    display: block;
+}
+
+
+
+
+
