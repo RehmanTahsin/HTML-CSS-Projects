@@ -1,0 +1,92 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: DM Sans;
+}
+html,body{
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.full{
+    display: flex;
+    background-color:white;
+    width: 880px;
+    height: 400px;
+}
+.left{
+    background-color:burlywood;
+    text-align: center;
+    width: 440px;
+    z-index: 556;
+}
+.left h1{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.left i{
+    font-weight: bolder;
+    font-size: 16px;
+}
+.left p{
+     padding: 33px;
+     text-align: center;
+     font-size: 20px;
+     margin-top: -3px;
+}
+.left button{
+    padding: 15px;
+    margin-bottom:13px;
+    margin-top: -50px;
+    border-radius: 10px;
+    border: none;
+    background-color: antiquewhite;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.right{
+    background-image: url(phone.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px ;
+    width: 440px;
+    
+}
+.right ul{
+    background-color:black;
+    height: 100%;
+    opacity: .8;
+    width: 100%;
+    padding: 20px 34px;
+    text-align: left;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: -440px;
+    transition: .4s;
+}
+.right li{   
+    color: aliceblue;
+}
+.right:hover ul{
+    margin-left: 0px;
+}
+.left button:hover{
+    background-color: #e67e22;
+    color: aliceblue;
+}
+
+

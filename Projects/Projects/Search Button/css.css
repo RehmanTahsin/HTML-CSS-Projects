@@ -1,0 +1,58 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: DM Sans;
+}
+html,body{
+    height: 100%;
+}
+.full{
+    position: absolute;
+    left:50%;
+    top: 45%;
+    transform: translate(-50%,-50%);
+}
+body{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+input{
+    padding: 15px;
+    width: 0px;
+    border-radius: 50px;
+    background-color:white ;
+    border-color: white;
+    outline: none;
+    font-size: 19px;
+    font-weight: bold;
+    transition: all .4s ease;
+}
+::placeholder{
+    color: black;
+}
+.btn{
+    position: absolute;
+    top:-6px;
+    right: -9px;
+    line-height: 70px;
+    color: black;
+    background-color: #eccc68;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.btn i{
+    font-size: 20px;
+    font-weight: bold;
+}
+.full:hover input{
+    width: 350px;
+}
