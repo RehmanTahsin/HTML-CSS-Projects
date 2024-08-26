@@ -16,5 +16,5 @@ Skills: JS / HTML / CSS / PYTHON / SQL
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon&show_icons=true)
 
