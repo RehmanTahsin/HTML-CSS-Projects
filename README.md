@@ -21,6 +21,8 @@ Currently I am a small programmer now I am doing small projects related to vario
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=dark&show_icons=true)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
