@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+<img src=" https://img.freepik.com/free-vector/programming-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-706.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724112000&semt=ais_hybrid">
 </div>
 <h3 align="center" >Hi there 👋, my name is Tahsin</h3>
 <h4 align="center">I am a Programmer </h4>
- 
 <div align="center"> 
   <a href="rehmantahsin98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -48,6 +47,6 @@
   <br/><br/><br/>
 </div>
 <hr>
-<div align="center" height="50">
-<img src="https://media.licdn.com/dms/image/C4D12AQFohSXYA7u_hQ/article-cover_image-shrink_600_2000/0/1640811231162?e=2147483647&v=beta&t=bjbTseQkKy9hycxeRIPXvBJZwb3TkABkbFmOLoACwsY">
+<div align="center">
+<img src="">
 </div>
