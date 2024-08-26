@@ -34,9 +34,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="right">
-<img src="https://streak-stats.demolab.com/?user=rehmantahsin" width="450">
+<img src="https://streak-stats.demolab.com/?user=rehmantahsin" width="390">
 </div>
- <img src="https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true" width="450">  
+ <img src="https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true" width="390">  
    <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact">
  </div>
