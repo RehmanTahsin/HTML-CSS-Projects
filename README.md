@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at my repositories [https://sites.google.com/view/rehmantahsin/home](https://sites.google.com/view/rehmantahsin/home)
 
-- 💬 Ask me about **JS / HTML / CSS / PYTHON / SQL**
-
-- 📫 How to reach me **rehmantahsin98@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rehmantahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehmantahsin" height="30" width="40" /></a>
