@@ -7,7 +7,6 @@ Currently I am a small programmer now I am doing small projects related to vario
 
  - 🔭 I’m currently working on Programming
  - 🌱 I’m currently learning JavaScript                             
- - 🤔 I’m looking for help with some beginners
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
@@ -22,3 +21,8 @@ Currently I am a small programmer now I am doing small projects related to vario
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact)    
+
+
+
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) api/pin?username=anuraghazra&repo=github-readme-stats
