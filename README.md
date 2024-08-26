@@ -17,11 +17,11 @@ Currently I am a small programmer now I am doing small projects related to vario
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
- ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)  
+ ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=dark&show_icons=true)
+
 
 
 
