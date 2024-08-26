@@ -21,5 +21,4 @@ Currently I am a small programmer now I am doing small projects related to vario
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact)      
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rehmantahsin&repo=github-readme-stats)](api/pin?username=anuraghazra&repo=github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact)      [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
