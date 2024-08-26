@@ -19,8 +19,8 @@ Skills: JS / HTML / CSS / PYTHON / SQL
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
  
 
