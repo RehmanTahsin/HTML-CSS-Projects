@@ -1,17 +1,17 @@
 <div align="center">
-<img src="">
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 </div>
 <h3 align="center" >Hi there 👋, my name is Tahsin</h3>
 <h4 align="center">I am a Programmer </h4>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="rehmantahsin98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/rehmantahsin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://sites.google.com/view/rehmantahsin/home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -49,5 +49,5 @@
 </div>
 <hr>
 <div align="center" height="50">
-<img src="https://cdn.pixabay.com/animation/2023/03/21/22/04/22-04-05-16_512.gif">
+<img src="https://media.licdn.com/dms/image/C4D12AQFohSXYA7u_hQ/article-cover_image-shrink_600_2000/0/1640811231162?e=2147483647&v=beta&t=bjbTseQkKy9hycxeRIPXvBJZwb3TkABkbFmOLoACwsY">
 </div>
