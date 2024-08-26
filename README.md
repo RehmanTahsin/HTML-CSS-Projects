@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://media.licdn.com/dms/image/C4D12AQFohSXYA7u_hQ/article-cover_image-shrink_600_2000/0/1640811231162?e=2147483647&v=beta&t=bjbTseQkKy9hycxeRIPXvBJZwb3TkABkbFmOLoACwsY">
+</div>
 <h3 align="center" >Hi there 👋, my name is Tahsin</h3>
 <h4 align="center">I am a Programmer </h4>
  
@@ -33,6 +35,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
  ![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)    ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin) 
+ <hr>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact">
  </div>
@@ -42,4 +45,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+<div align="center">
+<img src="https://media.licdn.com/dms/image/C4D12AQFohSXYA7u_hQ/article-cover_image-shrink_600_2000/0/1640811231162?e=2147483647&v=beta&t=bjbTseQkKy9hycxeRIPXvBJZwb3TkABkbFmOLoACwsY">
 </div>
