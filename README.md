@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 </div>
-<h3 align="center" >Hi there 👋, my name is Tahsin</h3>
-<h4 align="center">I am a Programmer </h4>
+<h3 align="center" >Hi there 👋, My name is Tahsin</h3>
+<h4 align="center">I am a Programmer😊 </h4>
 <div align="center"> 
   <a href="rehmantahsin98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
