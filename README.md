@@ -37,7 +37,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true">
  </div>
  <br>
- <div align="center">
+ <div align="center" width="100">
  <img src="https://streak-stats.demolab.com/?user=rehmantahsin">
  </div>
  <br>
