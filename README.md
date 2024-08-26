@@ -47,6 +47,3 @@
   <br/><br/><br/>
 </div>
 <hr>
-<div align="center">
-<img src="">
-</div>
