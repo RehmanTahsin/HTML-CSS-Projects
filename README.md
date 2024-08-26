@@ -15,7 +15,9 @@ Skills: JS / HTML / CSS / PYTHON / SQL
 <a href="https://www.linkedin.com/in/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'></a> 
 <a href="https://www.facebook.com/rehmantahsin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
 <a href="https://www.instagram.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='facebook' height='40'></a>
-<a href="https://sites.google.com/view/rehmantahsin/home"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='facebook' height='40'></a>
+<a href="https://sites.google.com/view/rehmantahsin/home"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='facebook' height='40'</a>
+
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
