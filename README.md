@@ -21,8 +21,8 @@ Currently I am a small programmer now I am doing small projects related to vario
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rehmantahsin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rehmantahsin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
