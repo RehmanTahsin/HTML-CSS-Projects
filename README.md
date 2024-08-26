@@ -4,18 +4,16 @@
 <hr>
 
 Currently I am a small programmer now I am doing small projects related to various programming but in future I am taking preparation for studying cyber security.
-Skills: JS / HTML / CSS / PYTHON / SQL
 
  - 🔭 I’m currently working on Programming
  - 🌱 I’m currently learning JavaScript                             
  - 🤔 I’m looking for help with some beginners
- #### Contact with me =>
- <a href="https://github.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
- <a href="https://www.linkedin.com/in/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'></a> 
- <a href="https://www.facebook.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
- <a href="https://www.instagram.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='facebook' height='40'></a>
- <a href="https://sites.google.com/view/rehmantahsin/home"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> 
- </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rehmantahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehmantahsin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rehmantahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmantahsin" height="30" width="40" /></a>
+<a href="https://fb.com/rehmantahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehmantahsin" height="30" width="40" /></a>
+</p>
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
