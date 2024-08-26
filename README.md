@@ -26,6 +26,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&theme=neon&show_icons=true)    ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin) 
  <div align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact)    
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin&layout=compact">
  </div>
 
