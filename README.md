@@ -47,6 +47,6 @@
   
   <br/><br/><br/>
 </div>
-<div align="center" height="100">
+<div align="center" height="50">
 <img src="https://media.licdn.com/dms/image/C4D12AQFohSXYA7u_hQ/article-cover_image-shrink_600_2000/0/1640811231162?e=2147483647&v=beta&t=bjbTseQkKy9hycxeRIPXvBJZwb3TkABkbFmOLoACwsY">
 </div>
