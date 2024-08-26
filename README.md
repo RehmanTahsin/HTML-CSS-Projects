@@ -47,6 +47,7 @@
   
   <br/><br/><br/>
 </div>
+<hr>
 <div align="center" height="50">
-<img src="https://cdn.shopify.com/s/files/1/1394/4369/files/Thankyou-gif.gif?v=1589975671">
+<img src="https://cdn.pixabay.com/animation/2023/03/21/22/04/22-04-05-16_512.gif">
 </div>
