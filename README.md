@@ -10,9 +10,9 @@ Skills: JS / HTML / CSS / PYTHON / SQL
  - 🌱 I’m currently learning JavaScript                             
  - 🤔 I’m looking for help with some beginners
 #### Contact with me =>
-<a href="https://github.com/rehmantahsin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
+<a href="https://github.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
 <a href="https://www.linkedin.com/in/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'></a> 
-<a href="https://www.facebook.com/rehmantahsin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
+<a href="https://www.facebook.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
 <a href="https://www.instagram.com/rehmantahsin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='facebook' height='40'></a>
 <a href="https://sites.google.com/view/rehmantahsin/home"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='facebook' height='40'</a>
 
