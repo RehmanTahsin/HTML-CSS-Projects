@@ -25,4 +25,4 @@ Currently I am a small programmer now I am doing small projects related to vario
 
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rehmantahsin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rehmantahsin&repo=github-readme-stats)](https://github.com/RehmanTahsin/rehmantahsin) 
