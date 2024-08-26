@@ -13,11 +13,11 @@ Skills: JS / HTML / CSS / PYTHON / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rehmantahsin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rehmantahsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rehmantahsin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rehmantahsin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rehmantahsin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/rehmantahsin/home)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rehmantahsin)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantahsin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehmantahsin&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehmantahsin)  
 
